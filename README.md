@@ -104,13 +104,13 @@ Streamlit Application
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Healthcare-Premium-Prediction.git
+git clone https://github.com/nikhil32002/ml-project-premium-prediction.git
 ```
 
 ### Navigate to Project Directory
 
 ```bash
-cd Healthcare-Premium-Prediction
+cd ml-project-premium-prediction
 ```
 
 ### Install Required Libraries
@@ -122,11 +122,9 @@ pip install -r requirements.txt
 ### Run the Streamlit Application
 
 ```bash
-streamlit run app.py
+streamlit run .\main.py
 ```
-
 ---
-
 
 # 🎓 Learning Outcomes
 
@@ -145,6 +143,14 @@ This project demonstrates practical implementation of:
 - End-to-End Machine Learning Pipeline building.
 
 ---
+
+# Output
+
+![Image1](Images/1.png)
+
+![Image2](Images/2.png)
+
+![Image3](Images/3.png)
 
 # ✅ Conclusion
 
